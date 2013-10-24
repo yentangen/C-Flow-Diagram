@@ -34,6 +34,7 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+<<<<<<< HEAD
 
 #defined by Owner (Tang-En Yen) for this particular project.
 #temporarily remove for more visibility if contributor desires.
@@ -43,3 +44,5 @@ nosetests.xml
 *.txt
 *.log
 
+=======
+>>>>>>> b56b2ec2a06f1a7ff8edf65127a8cfa6ea7a7751
